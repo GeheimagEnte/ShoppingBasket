@@ -1,0 +1,12 @@
+D:\git\ShoppingBasket\ShoppingBasket\bin\Debug\net5.0\ShoppingBasket.deps.json
+D:\git\ShoppingBasket\ShoppingBasket\bin\Debug\net5.0\ShoppingBasket.dll
+D:\git\ShoppingBasket\ShoppingBasket\bin\Debug\net5.0\ref\ShoppingBasket.dll
+D:\git\ShoppingBasket\ShoppingBasket\bin\Debug\net5.0\ShoppingBasket.pdb
+D:\git\ShoppingBasket\ShoppingBasket\obj\Debug\net5.0\ShoppingBasket.csprojAssemblyReference.cache
+D:\git\ShoppingBasket\ShoppingBasket\obj\Debug\net5.0\ShoppingBasket.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ShoppingBasket\ShoppingBasket\obj\Debug\net5.0\ShoppingBasket.AssemblyInfoInputs.cache
+D:\git\ShoppingBasket\ShoppingBasket\obj\Debug\net5.0\ShoppingBasket.AssemblyInfo.cs
+D:\git\ShoppingBasket\ShoppingBasket\obj\Debug\net5.0\ShoppingBasket.csproj.CoreCompileInputs.cache
+D:\git\ShoppingBasket\ShoppingBasket\obj\Debug\net5.0\ShoppingBasket.dll
+D:\git\ShoppingBasket\ShoppingBasket\obj\Debug\net5.0\ref\ShoppingBasket.dll
+D:\git\ShoppingBasket\ShoppingBasket\obj\Debug\net5.0\ShoppingBasket.pdb
